@@ -1,3 +1,3 @@
 # Project_examples
 
-it is my own repository for study CV
+it is my own repository for CV study
